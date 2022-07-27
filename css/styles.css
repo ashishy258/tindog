@@ -1,0 +1,91 @@
+#title {
+    background-color: #ff4c68;
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+
+}
+
+.container-fluid {
+    padding: 2% 15%;
+}
+
+.title-image {
+    width: 50%;
+    transform: rotate(23deg);
+    position: absolute;
+}
+
+.title-image-div {
+    position: relative;
+
+}
+
+.navbar {
+    margin: 10px 0 40px 0;
+}
+
+#features {
+    background-color: #fff;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.icon {
+    color: black;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+#testimonials {
+    background-color: #ff4c68;
+    line-height: 1.5;
+    text-align: center;
+    color: #fff;
+    
+}
+
+#carouselExampleControls {
+    padding: 2% 15%;
+}
+
+.testimonials-images {
+    width: 10%;
+    border-radius: 100%;
+    margin: 10px 20px;
+}
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 100px 50px 50px 50px;
+}
+
+.press-images {
+    width: 15%;
+}
+
+#pricing {
+    text-align: center;
+    margin: 10%;
+}
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 5% 0 5% 0;
+    line-height: 1.5;
+}
+
+#footer {
+    padding: 20px;
+    text-align: center;
+}
